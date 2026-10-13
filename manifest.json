@@ -1,6 +1,6 @@
 {
     "name":  "ATOM",
-    "packVersion":  "4",
+    "packVersion":  "5",
     "minecraft":  "1.20.1",
     "forge":  "47.4.26",
     "mods":  [
@@ -1918,5 +1918,35 @@
                      "sha1":  "1e87aae038570b8f5864bcdd6ae6dabb30162f2d",
                      "size":  1006574
                  }
-             ]
+             ],
+    "overrides":  [
+                      {
+                          "name":  "config",
+                          "file":  "config-2242632eab.zip",
+                          "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/config-2242632eab.zip",
+                          "sha1":  "17f1b5306e184758e030355898003939994b8134",
+                          "size":  14436762
+                      },
+                      {
+                          "name":  "configureddefaults",
+                          "file":  "configureddefaults-1325ea4023.zip",
+                          "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/configureddefaults-1325ea4023.zip",
+                          "sha1":  "813b89daa5d74c8b86de86b5a8eda51a833b992c",
+                          "size":  4746
+                      },
+                      {
+                          "name":  "resourcepacks",
+                          "file":  "resourcepacks-890fcf415b.zip",
+                          "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/resourcepacks-890fcf415b.zip",
+                          "sha1":  "16c7429a66bc091ba84cd1b9be307be203549670",
+                          "size":  44006484
+                      },
+                      {
+                          "name":  "shaderpacks",
+                          "file":  "shaderpacks-65a6a16b69.zip",
+                          "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/shaderpacks-65a6a16b69.zip",
+                          "sha1":  "b60e3f50eb81e1f144efc04665136d8353aa7efc",
+                          "size":  792985
+                      }
+                  ]
 }
