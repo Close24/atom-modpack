@@ -1,6 +1,6 @@
 {
     "name":  "ATOM",
-    "packVersion":  "5",
+    "packVersion":  "7",
     "minecraft":  "1.20.1",
     "forge":  "47.4.26",
     "mods":  [
@@ -107,10 +107,10 @@
                      "size":  264951
                  },
                  {
-                     "file":  "atomone-1.2.3.jar",
-                     "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/atomone-1.2.3.jar",
-                     "sha1":  "2ae13bfdce19c2e77c878b52c0ffddc7b0489c08",
-                     "size":  93950
+                     "file":  "atomone-1.5.0.jar",
+                     "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/atomone-1.5.0.jar",
+                     "sha1":  "d1292d6a9ae5d7bfd7f4759b6c15d32b52924d97",
+                     "size":  464792
                  },
                  {
                      "file":  "backpacked-forge-1.20.1-2.2.5.jar",
