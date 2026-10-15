@@ -1,6 +1,6 @@
 {
     "name":  "ATOM",
-    "packVersion":  "14",
+    "packVersion":  "15",
     "minecraft":  "1.20.1",
     "forge":  "47.4.26",
     "mods":  [
@@ -771,12 +771,6 @@
                      "url":  "https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar",
                      "sha1":  "d235d2ac0ce0143425d4d1e3d9a32d32fc994a93",
                      "size":  997501
-                 },
-                 {
-                     "file":  "ForgematicaPrinter-0.1.0+mc1.20.1.jar",
-                     "url":  "https://cdn.modrinth.com/data/oqw1j8E7/versions/Iu8zwuRq/ForgematicaPrinter-0.1.0%2Bmc1.20.1.jar",
-                     "sha1":  "068765fc2bad038ff306e955c61f145d7cc6681b",
-                     "size":  111373
                  },
                  {
                      "file":  "forge-medievalend-1.0.1.jar",
