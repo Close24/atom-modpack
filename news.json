@@ -1,0 +1,7 @@
+{
+  "news": [
+    { "id": "tanks-1.2", "tag": "update", "title": "Réservoirs liés v1.2", "text": "Vitres aquarium, liaison Nether ↔ Overworld", "date": "13/10/2026", "image": "news/news1.jpg" },
+    { "id": "concours-create", "tag": "event", "title": "Concours de base Create", "text": "Montre ta plus belle usine", "date": "13/10/2026", "image": "news/news2.jpg" },
+    { "id": "pack-v4", "tag": "pack", "title": "319 mods + shaders", "text": "Configs et packs de textures synchronisés", "date": "13/10/2026", "image": "news/news3.jpg" }
+  ]
+}
