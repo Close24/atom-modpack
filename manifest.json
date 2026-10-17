@@ -1,6 +1,6 @@
 {
     "name":  "ATOM",
-    "packVersion":  "21",
+    "packVersion":  "22",
     "minecraft":  "1.20.1",
     "forge":  "47.4.26",
     "mods":  [
@@ -109,7 +109,7 @@
                  {
                      "file":  "atomone-1.6.7.jar",
                      "url":  "https://github.com/Close24/atom-modpack/releases/download/mods/atomone-1.6.7.jar",
-                     "sha1":  "b847211257eaec72fbadc0d81322ce48fbca4c89",
+                     "sha1":  "d1f218c533833f930eef2bbb7de5e1e5f062d7d1",
                      "size":  944727
                  },
                  {
