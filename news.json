@@ -1,6 +1,6 @@
 {
   "news": [
-    { "id": "tanks-1.2", "tag": "update", "title": "launcher 1.3.9", "text": "nouvelles quetes, nouvelles interaction pnj ", "date": "16/10/2026", "image": "news/news1.jpg" },
+    { "id": "ZOO", "tag": "update", "title": "new zoo", "text": "mis a jour de l'atlas, capture des monstre ", "date": "16/10/2026", "image": "news/news1.jpg" },
     { "id": "concours-Animalier", "tag": "event", "title": "Concours de ZOO", "text": "Montre ton plus beau ZOO", "date": "16/10/2026", "image": "news/news2.jpg" },
     { "id": "pack-v4", "tag": "pack", "title": "32O mods + shaders", "text": "Configs et packs de textures synchronisés", "date": "16/10/2026", "image": "news/news3.jpg" }
   ]
