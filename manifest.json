@@ -1,6 +1,6 @@
 {
     "name":  "ATOM",
-    "packVersion":  "24",
+    "packVersion":  "26",
     "minecraft":  "1.20.1",
     "forge":  "47.4.26",
     "mods":  [
@@ -1407,6 +1407,12 @@
                      "url":  "https://cdn.modrinth.com/data/ZX66K16c/versions/LojgSWbd/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
                      "sha1":  "378cc9730d1f11cd4c50add96263baccacdb4942",
                      "size":  102164
+                 },
+                 {
+                     "file":  "Placement+-1.19.2_1.0a.jar",
+                     "url":  "https://cdn.modrinth.com/data/2tf0NTTM/versions/uu7toV3m/Placement%2B-1.19.2_1.0a.jar",
+                     "sha1":  "81c5acbde8dfae3c13be03252b502e0f06096646",
+                     "size":  177739
                  },
                  {
                      "file":  "Platform-forge-1.20.1-1.2.10.1.jar",
